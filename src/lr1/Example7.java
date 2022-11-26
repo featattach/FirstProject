@@ -14,6 +14,7 @@ public class Example7 {
         int age = in.nextInt();
 
         System.out.println("Ваше имя " + name + " возраст " + age + " лет");
+        in.close();
 
     }
 }

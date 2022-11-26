@@ -1,6 +1,5 @@
 package lr1;
 
-import java.nio.file.FileSystemNotFoundException;
 import java.util.Scanner;
 
 public class Example6 {
@@ -18,6 +17,7 @@ public class Example6 {
         String middlename = in.nextLine();
 
         System.out.println("Hello " + " " + surname + " " + name + " " + middlename);
+        in.close();
 
 
     }

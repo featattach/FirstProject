@@ -17,5 +17,6 @@ public class Example8 {
         int data = in.nextInt();
 
         System.out.println("Сегодня " + week + " " +  data + " число," + " месяц " + month);
+        in.close();
     }
 }
