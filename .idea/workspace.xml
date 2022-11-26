@@ -48,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example13">
+  <component name="RunManager" selected="Application.Example12">
     <configuration name="Example11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr1.Example11" />
       <module name="FirstProject" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example13" />
+    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example12" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -116,7 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example13" />
+        <item itemvalue="Application.Example12" />
         <item itemvalue="Application.Example15" />
         <item itemvalue="Application.Example11" />
         <item itemvalue="Application.Example9" />
