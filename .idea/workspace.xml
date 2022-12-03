@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="lr2 start">
-      <change afterPath="$PROJECT_DIR$/src/timus/Task_1000.java" afterDir="false" />
+    <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end Examples">
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1001/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1785/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr2/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr2/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr2/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr2/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr2/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr2/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr2/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr2/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus/Task_1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/Task_1000/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus/Task_1293.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/Task_1293/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example5">
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr2.Example3" />
-      <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr2.Example4" />
+  <component name="RunManager" selected="Application.timus.Task_1785.Main">
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.Example2" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task_1000" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1001.Main" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="timus.Task_1293.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_1293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task_1293" />
+    <configuration name="timus.Task_1000.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1000.Main" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="timus.Task_1293.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timus.Task_1785.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1785.Main" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.Task_1785.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.timus.Task_1785.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Task_1000" />
-        <item itemvalue="Application.Task_1293" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.timus.Task_1000.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670044500582</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="end Examples">
+      <created>1670065428761</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670065428761</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +219,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="end homeworks" />
     <MESSAGE value="lr2 start" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr2 start" />
+    <MESSAGE value="end Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="end Examples" />
   </component>
 </project>
