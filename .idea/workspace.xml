@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end Examples">
-      <change afterPath="$PROJECT_DIR$/src/timus/Task_1001/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/Task_1785/Main.java" afterDir="false" />
+    <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end lr2">
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1264/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/Task_1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/Task_1000/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/Task_1293.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/Task_1293/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.timus.Task_1785.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr2.Example2" />
       <module name="FirstProject" />
@@ -109,8 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.timus.Task_1785.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.timus.Task_1785.Main" />
         <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example5" />
         <item itemvalue="Application.timus.Task_1000.Main" />
@@ -189,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670065428761</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="end lr2">
+      <created>1670070205370</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670070205370</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +224,7 @@
     <MESSAGE value="end homeworks" />
     <MESSAGE value="lr2 start" />
     <MESSAGE value="end Examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="end Examples" />
+    <MESSAGE value="end lr2" />
+    <option name="LAST_COMMIT_MESSAGE" value="end lr2" />
   </component>
 </project>

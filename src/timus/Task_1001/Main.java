@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         DecimalFormat dF = new DecimalFormat( "0.0000");
         Scanner scanner = new Scanner(System.in);
         double x1 = scanner.nextDouble();
