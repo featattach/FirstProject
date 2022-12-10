@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end lr2">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/ex.java" afterDir="false" />
+    <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end lr3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/ex.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670148124299</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="end lr3">
+      <created>1670696185257</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670696185257</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +240,7 @@
     <MESSAGE value="lr2 start" />
     <MESSAGE value="end Examples" />
     <MESSAGE value="end lr2" />
-    <option name="LAST_COMMIT_MESSAGE" value="end lr2" />
+    <MESSAGE value="end lr3" />
+    <option name="LAST_COMMIT_MESSAGE" value="end lr3" />
   </component>
 </project>
