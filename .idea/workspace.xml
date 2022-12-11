@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end lr3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr3/ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/ex.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +47,8 @@
   }
 }</component>
   <component name="RunManager" selected="Application.ex">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example1" />
+    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example10" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example2" />
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example6" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example3" />
+    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example7" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example9" />
+    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example8" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -108,10 +115,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ex" />
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.lr3.Example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Example9" />
+        <item itemvalue="Application.Example8" />
+        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.Example7" />
+        <item itemvalue="Application.Example10" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670696185257</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="end lr3">
+      <created>1670702589788</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670702589842</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

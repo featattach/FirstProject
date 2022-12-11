@@ -57,7 +57,7 @@ public class Example2 {
             if (day.equals("воскресенье")) {
                 System.out.println("if |" + 7);
             }
-        }else {
+        } else {
             System.out.println("if | что-то не то");
         }
 
