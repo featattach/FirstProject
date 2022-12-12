@@ -12,14 +12,17 @@ public class Example10 {
         int[] massiv = new int[size];
         Random random = new Random();
 
-        for(int i = 0; i<massiv.length; i++){
+        for (int i = 0; i < massiv.length; i++) {
             massiv[i] = random.nextInt(1000);
         }
         Arrays.sort(massiv);
 
         while (size>=1){
-            System.out.println(massiv[size-1]);
-            size--;
+            System.out.println(massiv[size-1]); //выводит в консоль в обратном порядке, но значения в массиве те же
+        size--;
+
         }
+
     }
 }
+

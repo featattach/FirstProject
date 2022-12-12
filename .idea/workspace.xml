@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end lr3 allmost">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Example8">
+}]]></component>
+  <component name="RunManager" selected="Application.Example6">
     <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr3.Example10" />
       <module name="FirstProject" />
@@ -91,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.ex" />
+    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example9" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.ex" />
         <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example7" />
+        <item itemvalue="Application.Example9" />
         <item itemvalue="Application.Example10" />
+        <item itemvalue="Application.Example7" />
+        <item itemvalue="Application.Example8" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670763521295</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="end lr3 allmost">
+      <created>1670765188779</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670765188779</updated>
+    </task>
+    <task id="LOCAL-00016" summary="end lr3 allmost">
+      <created>1670851412829</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670851412829</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,9 +281,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr3/ex.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="43" />
+          <url>file://$PROJECT_DIR$/src/lr3/Example3.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

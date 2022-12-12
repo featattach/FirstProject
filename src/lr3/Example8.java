@@ -10,8 +10,7 @@ public class Example8 {
         char massglas [] = {'A', 'E', 'I'};
         for (int x = 0; x < mainmass.length; i++)
         {
-            for (int y = 0; y < massglas.length; y++)
-            {
+            for (int y = 0; y < massglas.length; y++) {
                 if (i == massglas[y]) {
                     i++;
                 }

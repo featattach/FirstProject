@@ -13,7 +13,6 @@ public class Example6 {
 
         int size = in.nextInt();
         if (size > 0) {
-
             Random random = new Random();
             int[] ints = new int[size];
 
