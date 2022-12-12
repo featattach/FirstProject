@@ -37,7 +37,7 @@ public class Example2 {
         if (day.equals("понедельник") || day.equals("вторник") || day.equals("среда") || day.equals("четверг") || day.equals("пятница") ||
                 day.equals("суббота") || day.equals("воскресенье")) {
             if (day.equals("понедельник")) {
-                System.out.println("if " + 1);
+                System.out.println("if |" + 1);
             }
             if (day.equals("вторник")) {
                 System.out.println("if |" + 2);
