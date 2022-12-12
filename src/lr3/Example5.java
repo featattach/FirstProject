@@ -6,20 +6,11 @@ public class Example5 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Сколько чисел суммровать?");
-        int n = in.nextInt();
-        int x = 0;
-        int[] mass = new int[n];
-        for (int i = 0; i<mass.length; i++){
-            mass[i] = i;
-
-
-        }
-
-
-
-
+        int x = in.nextInt();
+        int a[] = new int[x];
     }
 }
+
 
 //5. Напишите программу, в которой вычисляется сумма чисел,
 //        удовлетворяющих таким критериям: при делении числа на 5 в остатке получа-ется 2,
