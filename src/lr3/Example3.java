@@ -9,13 +9,18 @@ public class Example3 {
         int x = in.nextInt();
         int[] fibb = new int[x];
         int o = 2;
+        int z = 2;
         fibb[0] = 0;
         fibb[1] = 1;
 
-        while (o <= fibb.length) {
+        while (o < fibb.length) {
             fibb[o] = fibb[o - 1] + fibb[o - 2];
-            System.out.println("while " + fibb[o]);
+          //  System.out.println("while " + fibb[o]);
             o++;
+        }
+        while (z-1<fibb.length) {
+            System.out.println( "while "+ fibb[z-1]);
+            z++;
         }
         for (int i = 2; i < fibb.length; ++i) {
             fibb[i] = fibb[i - 1] + fibb[i - 2];

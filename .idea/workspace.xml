@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end lr3 allmost">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr3/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr3/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr3/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr3/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr3/ex.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example10">
+  <component name="RunManager" selected="Application.Example3">
     <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr3.Example10" />
       <module name="FirstProject" />
@@ -112,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example10" />
         <item itemvalue="Application.g" />
-        <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example6" />
         <item itemvalue="Application.Example9" />
       </list>
@@ -248,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670860470953</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="end lr3 allmost">
+      <created>1670866007774</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670866007774</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,16 +286,5 @@
     <MESSAGE value="end lr3" />
     <MESSAGE value="end lr3 allmost" />
     <option name="LAST_COMMIT_MESSAGE" value="end lr3 allmost" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr3/Example3.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
