@@ -14,11 +14,24 @@ public class Example5 {
             if (n % 5 == 2 || n % 3 == 1) {
                 count++;
                 sum += n;
-                System.out.println(n);
+                System.out.print(n + "+");
             }
-            n += 1;
+            n++;
         }
-        System.out.println(sum);
+        System.out.println("=" + sum);
+//
+//        int y = 0;
+//        int z = 0;
+//        for (int i = 0; i < x;) {
+//            for(y % 5 == 2 || y % 3 == 1;y++) {
+//                i++;
+//                z += y;
+//                System.out.print(z+"+");
+//            }
+//            y++;
+//        }
+//        System.out.println("="+z);
+
     }
 }
 

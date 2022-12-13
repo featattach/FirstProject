@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="end lr2">
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr3/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example5.java" afterDir="false" />
     </list>
@@ -53,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr2.Example5" />
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example3" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr2.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,10 +107,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.lr3.Example5" />
+        <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.timus.Task_1785.Main" />
         <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example5" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670070205370</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="end lr2">
+      <created>1670924038541</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670924038541</updated>
+    </task>
+    <task id="LOCAL-00012" summary="end lr2">
+      <created>1670924087500</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670924087500</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,5 +240,16 @@
     <MESSAGE value="end Examples" />
     <MESSAGE value="end lr2" />
     <option name="LAST_COMMIT_MESSAGE" value="end lr2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr3/Example5.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
