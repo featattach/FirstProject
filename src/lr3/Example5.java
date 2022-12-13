@@ -7,7 +7,18 @@ public class Example5 {
         Scanner in = new Scanner(System.in);
         System.out.println("Сколько чисел суммровать?");
         int x = in.nextInt();
-        int a[] = new int[x];
+        int n = 0;
+        int count = 0;
+        int sum = 0;
+        while (count < x) {
+            if (n % 5 == 2 || n % 3 == 1) {
+                count++;
+                sum += n;
+                System.out.println(n);
+            }
+            n += 1;
+        }
+        System.out.println(sum);
     }
 }
 
