@@ -8,20 +8,22 @@ public class Example5 {
         int[][] arrayNums = new int[2][3];
         int[][] arrayFinish = new int[3][2];
         for (int i = 0; i < arrayNums.length; i++) {
-            for (int y = 0; y < arrayNums.length; y++) {
+            for (int y = 0; y <= arrayNums.length; y++) {
                 arrayNums[i][y] = random.nextInt(10);
             }
         }
-//        for (int i = 0; i < arrayNums.length; i++) {
-//            for (int y = 0; y < arrayNums.length; y++) {
-//                System.out.println(arrayNums[i][y]);
-//            }
-//        }
         for (int i = 0; i < arrayNums.length; i++) {
-            for (int y = 0; y < arrayNums.length; y++)
+            for (int y = 0; y <= arrayNums.length; y++) {
+                System.out.print(arrayNums[i][y] + " ");
+            }
+            System.out.println();
+        }
+
+        for (int i = 0; i < arrayNums.length; i++) {
+            for (int y = 0; y <= arrayNums.length; y++)
                 arrayFinish[i][y] = arrayNums[y][i];
         }
-        System.out.println("я кончил");
+    }
 //        for (int i = 0; i < arrayNums.length; i++) {
 //            for (int y = 0; y < arrayNums.length; y++) {
 //                System.out.println(arrayFinish[i][y]);
