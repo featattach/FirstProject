@@ -1,39 +1,44 @@
 package lr4;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class Example5 {
     public static void main(String[] args) {
         Random random = new Random();
-        int[][] arrayNums = new int[2][3];
-        int[][] arrayFinish = new int[3][2];
-        for (int i = 0; i < arrayNums.length; i++) {
-            for (int y = 0; y <= arrayNums.length; y++) {
-                arrayNums[i][y] = random.nextInt(10);
+        int i = 5;
+        int j = 3;
+        int[][] array1 = new int[i][j];
+        int[][] array2 = new int[j][i];
+        for (int x = 0; x < array1.length; x++) {
+            for (int y = 0; y < j; y++) {
+                array1[x][y] = random.nextInt(10);
             }
         }
-        for (int i = 0; i < arrayNums.length; i++) {
-            for (int y = 0; y <= arrayNums.length; y++) {
-                System.out.print(arrayNums[i][y] + " ");
+        System.out.println("массив до транспонирования");
+        for (int x = 0; x < i; x++) {
+            for (int y = 0; y < j; y++) {
+                System.out.print(array1[x][y] + " ");
             }
             System.out.println();
         }
 
-        for (int i = 0; i < arrayNums.length; i++) {
-            for (int y = 0; y <= arrayNums.length; y++)
-                arrayFinish[i][y] = arrayNums[y][i];
+        for (int x = 0; x < j; x++) {
+            for (int y = 0; y < i; y++) {
+                array2[x][y] = array1[y][x];
+            }
+        }
+
+System.out.println("после транспонирования");
+        for (int x = 0; x < j; x++) {
+            for (int y = 0; y < i; y++) {
+                System.out.print(array2[x][y] + " ");
+            }
+            System.out.println();
         }
     }
-//        for (int i = 0; i < arrayNums.length; i++) {
-//            for (int y = 0; y < arrayNums.length; y++) {
-//                System.out.println(arrayFinish[i][y]);
-//            }
-//        }
-    }
 }
-
-
-//    Напишите программу, в которой создается двумерный целочисленный
+//   Напишите программу, в которой создается двумерный целочисленный
 //    массив. Он заполняется случайными числами. Затем в этом массиве строи и
 //        столбцы меняются местами: первая строка становится первым столбцом,
 //        вторая строка становиться вторым столбцом и так далее. Например, если

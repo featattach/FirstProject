@@ -8,14 +8,12 @@ public class Example4 {
                 arrayTwos[i][j] = "+";
             }
         }
-int figure = 5;
-        for(int i=0;i<figure;i++){
-            for(int y=0; y<figure; y++){
+        for(int i=0;i<5;i++){
+            for(int y=i; y<5; y++){
                 System.out.print(arrayTwos[i][y]);
             }
+            System.out.println();
         }
-
-
     }
 }
 

@@ -4,8 +4,8 @@ public class Example2 {
     public static void main(String[] args) {
         int figure = 10;
 
-        for(int i = 1; i<figure;i++) {
-            for(int y = i; y<figure; y++){
+        for(int i = 0; i<figure;i++) {
+            for(int y = i; y<=figure; y++){
                 System.out.print("+");
             }
             System.out.println();
