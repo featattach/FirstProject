@@ -23,20 +23,20 @@ class Lab3 {
     int a;
     int b;
 
-    public Lab3(int a, int b) {
+    public Lab3(int a, int b) { //конструкт два аргумента
         this.a = a;
         this.b = b;
 
     }
 
-    public Lab3(int a) {
+    public Lab3(int a) {  //конструкт 1 аргумент
         this.a = a;
     }
 
-    public Lab3() {
+    public Lab3() { // конструкт пустой без аргументов
 
     }
-
+//методы сделаем с выводом в консоль
     public void zerokonstr() {
         System.out.println("Пустой конструкт " + a + " + " + b);
     }
