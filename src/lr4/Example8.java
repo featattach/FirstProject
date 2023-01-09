@@ -45,7 +45,7 @@ public class Example8 {
         System.out.println("Введите ключ для шифрования");
         int key = in.nextInt();
         String encryptStr = Ceaser.encrypt(value, key);
-        System.out.print("Текст после проеобразования :" + encryptStr);
+        System.out.println("Текст после проеобразования :" + encryptStr);
         System.out.println("Выполнить обратное проеобразовани? (y/n)");
         boolean iterator = false;
         while (!iterator) {
