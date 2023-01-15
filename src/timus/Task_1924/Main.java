@@ -20,8 +20,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Scanner in = new Scanner(System.in, "ISO-8859-1");
-        PrintWriter out = new PrintWriter(new OutputStreamWriter(System.out, "ISO-8859-1"));
+        Scanner in = new Scanner(System.in);
+        PrintWriter out = new PrintWriter(new OutputStreamWriter(System.out));
         int a;
         a = in.nextInt();
         in.close();

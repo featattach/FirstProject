@@ -9,14 +9,14 @@ public class Main {
         PrintWriter out = new PrintWriter(System.out);
         int test = in.nextInt(), x, y;
         char x1, y1;
-        for(int i = 0; i <test; i++){
+        for (int i = 0; i < test; i++) {
             String position = in.next();
             x1 = position.charAt(0);
             y1 = position.charAt(1);
             x = (int) x1 - 96;
             y = (int) y1 - 48;
 
-            out.println(getInts()[x-1][y-1]);
+            out.println(getInts()[x - 1][y - 1]);
         }
         out.flush();
     }
