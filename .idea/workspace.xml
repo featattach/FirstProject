@@ -5,27 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a368a34a-69b6-4759-b2d8-85c0519718c0" name="Changes" comment="timus">
-      <change afterPath="$PROJECT_DIR$/src/test/GameBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/GameLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Tetris.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Tetromino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TetrominoType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_01_2023_22_10_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_01_2023_22_10__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/dcterms_bug_56479.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/net_pwall_json_simple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_src_5_2_3_20220909_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/schemas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example2/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/example3/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr4/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/GameBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/GameLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Tetris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Tetromino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TetrominoType.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -43,22 +66,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "D:/json-simple-1.1.1.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.26467204",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
-}</component>
-  <component name="RunManager" selected="Application.Tetris">
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example3" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Example1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.example1.Example1" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr9.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example4" />
+    <configuration name="ExcelCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example1.excel.ExcelCreate" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr10.example1.excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example5" />
+    <configuration name="JsonParserCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example1.json.JsonParserCreate" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr10.example1.json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example6" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1000.Main" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="timus.Task_1000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Tetris" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_2100.main" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="timus.Task_2100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tetris" />
-        <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.JsonParserCreate" />
+        <item itemvalue="Application.ExcelCreate" />
+        <item itemvalue="Application.Example1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673781491361</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="timus">
+      <created>1684236481905</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684236481905</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

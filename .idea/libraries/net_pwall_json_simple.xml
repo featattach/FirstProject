@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="net.pwall.json.simple" type="repository">
+    <properties maven-id="net.pwall.json:json-simple:1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/pwall/json/json-simple/1.1/json-simple-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/pwall/json/json-functions/1.0/json-functions-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/pwall/text/textmatcher/1.0/textmatcher-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/pwall/util/immutables/1.1/immutables-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
