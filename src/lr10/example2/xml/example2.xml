@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><kinoPoisk>
+    <movie>
+        <title>Зеленая миля</title>
+        <evaluation>9.1</evaluation>
+        <year>1999</year>
+    </movie>
+    <movie>
+        <title>Джентельмены</title>
+        <evaluation>8.5</evaluation>
+        <year>2019</year>
+    </movie>
+<movie><title>Ford против Ferrari</title><evaluation>8.2</evaluation><year>2019</year></movie></kinoPoisk>
